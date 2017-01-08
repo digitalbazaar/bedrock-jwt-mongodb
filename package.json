@@ -1,0 +1,33 @@
+{
+  "name": "bedrock-jwt-mongodb",
+  "version": "0.0.1-0",
+  "description": "Bedrock JWT MongoDB",
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/bedrock-jwt-mongodb"
+  },
+  "keywords": [
+    "bedrock"
+  ],
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "http://digitalbazaar.com"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-jwt-mongodb/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-jwt-mongodb",
+  "dependencies": {
+    "async": "^1.5.2",
+    "lodash": "^4.17.4"
+  },
+  "peerDependencies": {
+    "bedrock": "^1.0.0",
+    "bedrock-mongodb": "^3.0.0"
+  },
+  "directories": {
+    "lib": "./lib"
+  }
+}
