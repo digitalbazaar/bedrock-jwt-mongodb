@@ -1,0 +1,16 @@
+{
+  "name": "bedrock-jwt-mongodb-test",
+  "version": "0.0.1-0",
+  "description": "Bedrock JWT MongoDB test",
+  "scripts": {
+    "test": "node --preserve-symlinks test.js test"
+  },
+  "dependencies": {
+    "async": "^1.5.2",
+    "bedrock": "^1.0.0",
+    "bedrock-mongodb": "^3.0.0",
+    "bedrock-test": "^1.0.0",
+    "jsonwebtoken": "^7.2.1",
+    "lodash": "^4.17.4"
+  }
+}
