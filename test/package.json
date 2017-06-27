@@ -8,7 +8,9 @@
   "dependencies": {
     "async": "^1.5.2",
     "bedrock": "^1.0.0",
+    "bedrock-key": "^4.0.0",
     "bedrock-mongodb": "^3.0.0",
+    "bedrock-permission": "^2.4.3",
     "bedrock-test": "^1.0.0",
     "jsonwebtoken": "^7.2.1",
     "lodash": "^4.17.4"
