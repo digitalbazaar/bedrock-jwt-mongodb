@@ -1,5 +1,10 @@
 # bedrock-jwt-mongodb ChangeLog
 
+## 1.1.0 - 2017-06-27
+
+### Changed
+- Upgrade `bedrock-key` peer dependency from 3.x to 4.x.
+
 ## 1.0.0 - 2017-01-20
 
 ### Added
