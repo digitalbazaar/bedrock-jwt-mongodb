@@ -1,5 +1,8 @@
 # bedrock-jwt-mongodb ChangeLog
 
+### Changed
+- Update `bedrock-mongodb` peer dependency.
+
 ## 1.1.0 - 2017-06-27
 
 ### Changed
