@@ -21,7 +21,7 @@
   "homepage": "https://github.com/digitalbazaar/bedrock-jwt-mongodb",
   "dependencies": {
     "async": "^1.5.2",
-    "did-io": "^0.6.6",
+    "did-io": "^0.7.0",
     "jsonwebtoken": "^7.2.1",
     "lodash": "^4.17.4"
   },
